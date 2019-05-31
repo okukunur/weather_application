@@ -9,8 +9,11 @@ This repository is for lab 1 in EE5531
 
 ### Contribution guidelines ###
 
-None at this time each team member is working on project
+Team Project:
+Om Kukunuru
+Sam Kysar
+Shivam
 
 ### Who do I talk to? ###
 
-skysar@mtu.edu
+okukunur@mtu.edu
