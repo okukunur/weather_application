@@ -1,0 +1,8 @@
+prefix=/home/skysar/Documents/spring18/EE5531/lab1/weather_lab1/lab1/catkin_ws/install
+
+Name: lab1_pkg
+Description: Description of lab1_pkg
+Version: 0.0.0
+Cflags: -I/home/skysar/Documents/spring18/EE5531/lab1/weather_lab1/lab1/catkin_ws/install/include
+Libs: -L/home/skysar/Documents/spring18/EE5531/lab1/weather_lab1/lab1/catkin_ws/install/lib 
+Requires: message_runtime

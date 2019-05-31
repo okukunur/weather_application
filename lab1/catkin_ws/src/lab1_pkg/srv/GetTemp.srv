@@ -1,0 +1,7 @@
+int64 zipcode
+---
+string city
+string state
+string realfeel
+string weather
+float64 temp
