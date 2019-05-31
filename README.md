@@ -1,6 +1,6 @@
 # README #
 
-Lab 1 EE5531 MTU. Our custom weather application as well as lab tutorials.
+Our custom weather application.
 lab1 Folder has the weather application with the server and client.
 
 ### What is this repository for? ###
